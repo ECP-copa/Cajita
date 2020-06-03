@@ -1,3 +1,8 @@
+Cajita has moved and is now being actively developed as part of the [Cabana
+library](https://github.com/ECP-copa/Cabana/tree/master/cajita)
+
+This repository will no longer be updated.
+
 ## Cajita
 
 A library for computations on logically rectilinear grids
